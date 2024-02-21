@@ -1,0 +1,13 @@
+.delete-form {
+    display: inline-block;
+    margin-right: 10px;
+  }
+      
+  .delete-form button {
+    color: rgb(241, 144, 144);
+  }
+      
+  li {
+    list-style: none;
+  }
+  
