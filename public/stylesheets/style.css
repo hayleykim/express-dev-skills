@@ -1,13 +1,8 @@
-.delete-form {
-    display: inline-block;
-    margin-right: 10px;
-  }
-      
-  .delete-form button {
-    color: rgb(241, 144, 144);
-  }
-      
-  li {
-    list-style: none;
-  }
-  
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
